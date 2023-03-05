@@ -11,7 +11,7 @@ public class TestConfig {
 
     public static Config getConfig() {
         return Config.builder()
-                .token("YjEWbvQs2eDttl8MWpDPXN2KrQPuWTLYGCYWlRuq")
+                .token("")
 //                .userAgent("")
                 .build();
     }
